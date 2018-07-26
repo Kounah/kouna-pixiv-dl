@@ -1,0 +1,19 @@
+{
+  "name": "kouna-pixiv-dl",
+  "version": "1.0.0",
+  "description": "A pixiv image downloader written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kounah/kouna-pixiv-dl.git"
+  },
+  "author": "Kounah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kounah/kouna-pixiv-dl/issues"
+  },
+  "homepage": "https://github.com/Kounah/kouna-pixiv-dl#readme"
+}
